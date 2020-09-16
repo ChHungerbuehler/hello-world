@@ -1,4 +1,5 @@
 # hello-world
 The first repository
 
-To be added to the master repository.
+Update to be committed to the master branch
+
